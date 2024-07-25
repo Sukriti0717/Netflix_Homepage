@@ -6,4 +6,4 @@ This project is a similar of the Netflix homepage using HTML and CSS. It replica
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 # Demo
-You can see the webpage by visiting the [Netflix_Homepage](https://netflix-homepage-seven.vercel.app/) page.
+You can see the webpage by visiting the [Netflix_Homepage](https://netflix-homepage-cpxk.vercel.app/) page.
